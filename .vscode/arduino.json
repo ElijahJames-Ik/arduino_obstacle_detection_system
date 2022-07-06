@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM5",
+    "sketch": "arduino_obstacle_detection_system.ino",
+    "programmer": "arduino:avrispmkii"
+}
